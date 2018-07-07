@@ -1,0 +1,18 @@
+Juvenile detention center enrollments account for 498 students out of over half a million students.
+Magent schools account for 42,000 students out of almost half a million.
+These both are very small parts of the entire enrollment.
+
+TOTALS
+Many of the races' totals match their "Share of the Population" percentage and some cases the school enrollment percentage is higher than the over share of the population.  For example, the share of the overall Black population is at 12.6% but the shool enrollment percentage is at 14.12% of the "all_enrollment" number for the study.
+Hispanic is notably higher at 26.16% compared to 17.3% of the total population.
+Native American is at 1.41% compared to 0.8% of the overall population.  
+Asian percentage is bit higher as is Hawaiian-Pac_Islander and 2+ races.
+Whites are at a lower enrollment of 49.85% compared to their overall population share of 62%.
+
+
+SEXES
+Most of the female/male totals lean toward a male majority of 2-3% within each race.
+Hawaiian-Pac-Islanders and Two+Races have have slight female majorities.
+ 
+
+
